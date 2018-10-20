@@ -7,7 +7,7 @@ setup(
   version='0.0.1',
   description='Simple, rough, LDAP3 auth plugin for Radicale',
   long_description=open('README.txt').read(),
-  license='LICENSE.txt',
+  license='LICENSE',
   author='Jacob Louis Lemus Peschel',
   author_email='jacob@tlacuache.us',
   packages=['radicale_ldap3_auth'],
